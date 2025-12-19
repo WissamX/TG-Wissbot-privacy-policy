@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "bot_name": "@University_WissBot",
+    "last_updated": "2025-12-19"
+  },
+  "footer": {
+    "link_text": {
+      "en": "click here to go to the bot",
+      "ar": "اضغط هنا للانتقال إلى البوت"
+    },
+    "link_url": "https://t.me/University_WissBot"
+  },
+  "pages": {
+    "privacy": {
+      "title": { "en": "Privacy Policy", "ar": "سياسة الخصوصية" },
+      "summary": {
+        "en": "This Privacy Policy describes how we collect, use, and handle your personal information when you use our chatbot, @University_WissBot.",
+        "ar": "توضح سياسة الخصوصية كيفية جمع معلوماتك واستخدامها ومعالجتها عند استخدامك للبوت @University_WissBot."
+      },
+      "sections": [
+        {
+          "id": "info-we-collect",
+          "heading": { "en": "1. Information We Collect", "ar": "١. المعلومات التي نجمعها" },
+          "body": {
+            "en": [
+              "We may collect account-related details you provide (e.g., your Telegram username).",
+              "We may process conversation content you share with the bot to provide the service.",
+              "We may store logs for reliability and security purposes."
+            ],
+            "ar": [
+              "قد نجمع بيانات متعلقة بالحساب تقدمها (مثل اسم مستخدمك على تيليجرام).",
+              "قد نعالج محتوى المحادثة الذي تشاركه مع البوت لتقديم الخدمة.",
+              "قد نخزّن سجلات لأغراض الموثوقية والأمن."
+            ]
+          }
+        },
+        {
+          "id": "how-we-use-info",
+          "heading": { "en": "2. How We Use Information", "ar": "٢. كيفية استخدام المعلومات" },
+          "body": {
+            "en": [
+              "To provide and maintain the bot’s functionality.",
+              "To improve and personalize your experience.",
+              "To ensure security, prevent abuse, and comply with applicable laws."
+            ],
+            "ar": [
+              "لتقديم وظائف البوت وصيانتها.",
+              "لتحسين تجربتك وتخصيصها.",
+              "لضمان الأمان ومنع إساءة الاستخدام والامتثال للقوانين المعمول بها."
+            ]
+          }
+        },
+        {
+          "id": "data-sharing",
+          "heading": { "en": "3. Data Sharing & Third Parties", "ar": "٣. مشاركة البيانات والجهات الخارجية" },
+          "body": {
+            "en": [
+              "We may share data with service providers strictly to operate the bot (e.g., hosting).",
+              "We may disclose information if required by law or to protect rights and safety."
+            ],
+              "ar": [
+              "قد نشارك البيانات مع مزودي الخدمة فقط لتشغيل البوت (مثل الاستضافة).",
+              "قد نكشف المعلومات إذا طُلب ذلك بموجب القانون أو لحماية الحقوق والسلامة."
+            ]
+          }
+        },
+        {
+          "id": "user-rights",
+          "heading": { "en": "4. Your Rights & Choices", "ar": "٤. حقوقك وخياراتك" },
+          "body": {
+            "en": [
+              "You may request access, correction, or deletion of your data, subject to legal limits.",
+              "You may opt-out of certain processing where applicable."
+            ],
+            "ar": [
+              "يمكنك طلب الوصول إلى بياناتك أو تصحيحها أو حذفها وفقًا للقيود القانونية.",
+              "يمكنك إلغاء بعض المعالجة حيثما كان ذلك ممكنًا."
+            ]
+          }
+        },
+        {
+          "id": "data-security",
+          "heading": { "en": "5. Data Security", "ar": "٥. أمن البيانات" },
+          "body": {
+            "en": [
+              "We use reasonable technical and organizational measures to protect data.",
+              "No method of transmission or storage is completely secure; risks remain."
+            ],
+            "ar": [
+              "نستخدم تدابير تقنية وتنظيمية معقولة لحماية البيانات.",
+              "لا توجد وسيلة نقل أو تخزين آمنة تمامًا؛ قد تظل هناك مخاطر."
+            ]
+          }
+        },
+        {
+          "id": "policy-changes",
+          "heading": { "en": "6. Changes to This Policy", "ar": "٦. تغييرات على هذه السياسة" },
+          "body": {
+            "en": [
+              "We may update this policy; significant changes will be highlighted on this page."
+            ],
+            "ar": [
+              "قد نقوم بتحديث هذه السياسة؛ سيتم إبراز التغييرات المهمة في هذه الصفحة."
+            ]
+          }
+        },
+        {
+          "id": "contact",
+          "heading": { "en": "7. Contact Us", "ar": "٧. اتصل بنا" },
+          "body": {
+            "en": [
+              "Email: wissam.7.sabouni@gmail.com"
+            ],
+            "ar": [
+              "البريد الإلكتروني: wissam.7.sabouni@gmail.com"
+            ]
+          }
+        }
+      ]
+    },
+    "terms": {
+      "title": { "en": "Terms of Service", "ar": "شروط الخدمة" },
+      "summary": {
+        "en": "Placeholder terms summary. You will replace this after the design is ready.",
+        "ar": "ملخص مؤقت لشروط الخدمة. ستستبدله بعد اكتمال التصميم."
+      },
+      "sections": [
+        { "id": "usage", "heading": { "en": "1. Use of the Service", "ar": "١. استخدام الخدمة" }, "body": { "en": ["Placeholder."], "ar": ["نص مؤقت."] } },
+        { "id": "limitations", "heading": { "en": "2. Limitations", "ar": "٢. القيود" }, "body": { "en": ["Placeholder."], "ar": ["نص مؤقت."] } },
+        { "id": "liability", "heading": { "en": "3. Liability", "ar": "٣. المسؤولية" }, "body": { "en": ["Placeholder."], "ar": ["نص مؤقت."] } }
+      ]
+    }
+  }
+}
