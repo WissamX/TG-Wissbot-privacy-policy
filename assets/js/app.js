@@ -1,4 +1,4 @@
-// app.js – add separator element in footer
+// app.js – paragraph rendering that preserves newlines
 (function(){
   const els = {
     content: document.getElementById('content'),
@@ -85,6 +85,24 @@
     els.tabTerms.setAttribute('aria-selected', !privacyActive ? 'true' : 'false');
   }
 
+  // Convert text with \n\n to paragraphs and single \n to line breaks
+  function appendTextWithNewlines(container, text){
+    // Split on 2+ consecutive newlines to form separate <p> blocks
+    const paragraphs = String(text).split(/\n{2,}/);
+    paragraphs.forEach(par => {
+      const pEl = document.createElement('p');
+      // Within a paragraph, convert single newlines to <br>
+      const parts = par.split(/\n/);
+      parts.forEach((part, idx) => {
+        pEl.appendChild(document.createTextNode(part));
+        if (idx < parts.length - 1) {
+          pEl.appendChild(document.createElement('br'));
+        }
+      });
+      container.appendChild(pEl);
+    });
+  }
+
   function render(){
     if (!state.data) return;
     const page = state.data.pages[state.page];
@@ -110,16 +128,13 @@
       h2.textContent = sec.heading[lang];
       section.appendChild(h2);
 
-      if (Array.isArray(sec.body[lang])) {
-        sec.body[lang].forEach(p => {
-          const para = document.createElement('p');
-          para.textContent = p;
-          section.appendChild(para);
+      const bodyVal = sec.body[lang];
+      if (Array.isArray(bodyVal)) {
+        bodyVal.forEach(item => {
+          appendTextWithNewlines(section, item);
         });
-      } else if (typeof sec.body[lang] === 'string') {
-        const para = document.createElement('p');
-        para.textContent = sec.body[lang];
-        section.appendChild(para);
+      } else if (typeof bodyVal === 'string') {
+        appendTextWithNewlines(section, bodyVal);
       }
 
       container.appendChild(section);
