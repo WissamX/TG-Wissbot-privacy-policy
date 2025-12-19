@@ -181,3 +181,40 @@ ul { padding-left: 20px; }
     padding: 148px 16px 36px;         /* more top space to clear taller header */
   }
 }
+/* iPhone portrait fix: widen breakpoint to 600px and enforce stacking/centering */
+@media (max-width: 600px) {
+  .header-inner {
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+    padding: 10px 12px;
+  }
+  .title {
+    font-size: clamp(1.4rem, 5vw, 1.7rem);
+    text-align: center;
+  }
+  .controls, .tabs {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 6px;
+    margin-left: 0;
+  }
+  .control, .tab {
+    min-width: auto;
+    padding: 8px 10px;
+    flex: 0 1 auto;
+  }
+  .content {
+    /* extra headroom for the taller stacked header */
+    padding: 156px 16px 36px;
+  }
+}
+
+/* Ultra-narrow devices (≤380px): make buttons even more compact */
+@media (max-width: 380px) {
+  .control, .tab { padding: 7px 9px; font-size: 0.92rem; }
+  .title { font-size: clamp(1.3rem, 5.5vw, 1.6rem); }
+  .content { padding-top: 164px; }
+}
