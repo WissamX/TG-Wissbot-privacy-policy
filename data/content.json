@@ -23,7 +23,7 @@
           "heading": { "en": "1. Information We Collect", "ar": "١. المعلومات التي نجمعها" },
           "body": {
             "en": [
-              "We may collect account-related details you provide (e.g., your Telegram username). Testing2",
+              "We may collect account-related details you provide (e.g., your Telegram username).\nTesting this new line\n\ntesting now two lines\n\n\nwhat about threee lines?",
               "We may process conversation content you share with the bot to provide the service.",
               "We may store logs for reliability and security purposes."
             ],
