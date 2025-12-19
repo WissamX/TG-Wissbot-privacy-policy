@@ -134,3 +134,50 @@ ul { padding-left: 20px; }
   .content-footer { margin-top: 64px; padding-top: 18px; }
   .content-footer .sep { width: 90vw; }
 }
+/* Mobile portrait overflow fix and safe-area support */
+
+/* Add safe-area padding to header for devices with notches */
+.site-header {
+  padding-top: calc(12px + env(safe-area-inset-top));
+}
+
+/* Responsive adjustments for narrow screens (≤480px) */
+@media (max-width: 480px) {
+  .header-inner {
+    flex-direction: column;           /* stack title, controls, tabs */
+    align-items: center;              /* center content */
+    gap: 6px;
+    padding: 8px 12px;                /* tighter padding */
+  }
+  .title {
+    font-size: 1.5rem;                /* slightly smaller title */
+    text-align: center;
+  }
+  .controls {
+    display: flex;
+    flex-wrap: wrap;                  /* wrap buttons to next line */
+    justify-content: center;
+    gap: 6px;
+  }
+  .control {
+    padding: 8px 10px;                /* reduce button padding */
+    min-width: auto;                  /* allow smaller width */
+    flex: 0 1 auto;
+  }
+  .tabs {
+    display: flex;
+    flex-wrap: wrap;                  /* wrap page tabs */
+    justify-content: center;
+    gap: 6px;
+    margin-left: 0;                   /* remove left offset */
+  }
+  .tab {
+    padding: 8px 10px;
+    min-width: auto;
+    font-size: 0.95rem;
+    flex: 0 1 auto;
+  }
+  .content {
+    padding: 148px 16px 36px;         /* more top space to clear taller header */
+  }
+}
