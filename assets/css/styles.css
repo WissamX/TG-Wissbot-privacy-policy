@@ -218,3 +218,5 @@ ul { padding-left: 20px; }
   .title { font-size: clamp(1.3rem, 5.5vw, 1.6rem); }
   .content { padding-top: 164px; }
 }
+/* Preserve newlines inside content paragraphs */
+.content p { white-space: pre-line; }
