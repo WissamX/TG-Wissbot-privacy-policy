@@ -5,8 +5,8 @@
   },
   "footer": {
     "link_text": {
-      "en": "click here to go to the bot",
-      "ar": "اضغط هنا للانتقال إلى البوت"
+      "en": "Click here to view the bot",
+      "ar": "انقر هنا لعرض البوت"
     },
     "link_url": "https://t.me/University_WissBot"
   },
@@ -15,7 +15,7 @@
       "title": { "en": "Privacy Policy", "ar": "سياسة الخصوصية" },
       "summary": {
         "en": "This Privacy Policy describes how we collect, use, and handle your personal information when you use our chatbot, @University_WissBot.\n\nLast Updated: 19 December 2025",
-        "ar": "توضح سياسة الخصوصية كيفية جمع معلوماتك واستخدامها ومعالجتها عند استخدامك للبوت @University_WissBot."
+        "ar": "توضح سياسة الخصوصية هذه كيفية جمعنا لمعلوماتك الشخصية واستخدامها والتعامل معها عند استخدامك لروبوتنا، @University_WissBot.\n\nآخر تحديث: ١٩ ديسمبر ٢٠٢٥"
       },
       "sections": [
         {
@@ -26,19 +26,21 @@
               "To provide and improve the University_WissBot service, we collect the following information:",
               "• Information Provided by Telegram: When you interact with the bot, we receive basic profile information from your Telegram account, which may include your Telegram User ID, first name, last name, and username.",
               "• Conversation Data: We store the full text of your conversations with the bot. This data is used solely to operate the chatbot's core functions, analyze general usage trends to understand user needs, and improve the accuracy and performance of its AI responses.",
-              "• Interaction Metadata: We collect data about interactions (such as counts of button presses) and associate this information with your username for a limited period necessary for troubleshooting and analysis. This allows us to monitor the bot's performance, troubleshoot specific user issues, identify interface errors, and guide future development.",
+              "• Interaction Metadata: We collect data about interactions (such as which of buttons is pressed) and associate this information with your username for a limited period necessary for troubleshooting and analysis. This allows us to monitor the bot's performance, troubleshoot specific user issues, identify interface errors, and guide future development.",
               "• Data We Do Not Collect: As of the last update of this policy, the bot is designed not to process, store, or collect any images, voice messages, videos, or other media files sent by users."
             ],
             "ar": [
-              "قد نجمع بيانات متعلقة بالحساب تقدمها (مثل اسم مستخدمك على تيليجرام).",
-              "قد نعالج محتوى المحادثة الذي تشاركه مع البوت لتقديم الخدمة.",
-              "قد نخزّن سجلات لأغراض الموثوقية والأمن."
+              "لتقديم خدمة University_WissBot وتحسينها، نقوم بجمع المعلومات التالية:",
+              "• المعلومات المقدمة من Telegram: عندما تتفاعل مع البوت، نتلقى معلومات الملف الشخصي الأساسية من حساب Telegram الخاص بك، والتي قد تتضمن معرف مستخدم Telegram الخاص بك، والاسم الأول، والاسم الأخير، واسم المستخدم.",
+              "• بيانات المحادثة: نقوم بتخزين النص الكامل لمحادثاتك مع الروبوت. تُستخدم هذه البيانات حصراً لتشغيل الوظائف الأساسية للروبوت، وتحليل اتجاهات الاستخدام العامة لفهم احتياجات المستخدمين، وتحسين دقة وأداء استجابات الذكاء الاصطناعي.",
+              "• بيانات التفاعل الوصفية: نقوم بجمع بيانات حول التفاعلات (مثل الزر الذي تم الضغط عليه) ونربط هذه المعلومات باسم المستخدم الخاص بك لفترة محدودة ضرورية لاستكشاف الأخطاء وإصلاحها وتحليلها. يتيح لنا ذلك مراقبة أداء الروبوت، واستكشاف أخطاء المستخدمين وإصلاحها، وتحديد أخطاء واجهة المستخدم، وتوجيه التطوير المستقبلي.",
+              "• البيانات التي لا نجمعها: اعتبارًا من آخر تحديث لهذه السياسة، تم تصميم الروبوت بحيث لا يقوم بمعالجة أو تخزين أو جمع أي صور أو رسائل صوتية أو مقاطع فيديو أو ملفات وسائط أخرى يرسلها المستخدمون."
             ]
           }
         },
         {
           "id": "how-we-use-info",
-          "heading": { "en": "2. How We Use Information", "ar": "٢. كيفية استخدام المعلومات" },
+          "heading": { "en": "2. How We Use Information", "ar": "٢. كيف نستخدم المعلومات" },
           "body": {
             "en": [
               "We use the information we collect for the following purposes:",
@@ -48,15 +50,17 @@
               "• For Future Personalization: While the current bot does 'not' create detailed individual user profiles, we may use your interaction history in the future to tailor features and information to be more relevant to you (e.g., prioritizing your faculty's schedule)."
             ],
             "ar": [
-              "لتقديم وظائف البوت وصيانتها.",
-              "لتحسين تجربتك وتخصيصها.",
-              "لضمان الأمان ومنع إساءة الاستخدام والامتثال للقوانين المعمول بها."
+              "نستخدم المعلومات التي نجمعها للأغراض التالية:",
+              "• توفير الخدمات الأساسية وصيانتها: لتشغيل روبوت الجامعة (University_WissBot)، والاستجابة لأوامركم واستفسارات الذكاء الاصطناعي، وتقديم الوظائف الأساسية مثل توفير مراجع الكتب والبرامج الدراسية ومعلومات المحاضرات.",
+              "• تحسين الخدمة وتطويرها: يُعد هذا الاستخدام الأساسي لبيانات المحادثة. نحلل التفاعلات من أجل:\n    ○ 'تحديد الميزات والاحتياجات الجديدة' (على سبيل المثال، التعرف على طلبات المستخدمين للمحاضرات غير المدعومة، مما يدفعنا إلى إضافتها).\n    ○ 'تحسين منطق الذكاء الاصطناعي ودقة استجابته' من خلال تحسين طريقة تفكيره لتلبية توقعات المستخدمين بشكل أفضل.\n    ○ 'تعزيز سهولة الاستخدام' (على سبيل المثال، جعل الروبوت يستجيب لكلمة \"start\" بالإضافة إلى \"/start\").\n    ○ إجراء 'تحليل إجمالي للاتجاهات' (على سبيل المثال، تحديد نسبة المستخدمين الذين يسألون عن الجداول الزمنية) لتوجيه خارطة طريقنا التطويرية.",
+              "• لأغراض استكشاف الأخطاء وإصلاحها والأمان: لمراجعة تفاعلات محددة يدويًا لتصحيح الأخطاء، ومراقبة الأداء، وتحديد أخطاء واجهة المستخدم، ومنع إساءة الاستخدام، وضمان أمان وموثوقية خدمتنا.",
+              "• للتخصيص المستقبلي: على الرغم من أن الروبوت الحالي 'لا' يقوم بإنشاء ملفات تعريف فردية مفصلة للمستخدمين، إلا أننا قد نستخدم سجل تفاعلك في المستقبل لتخصيص الميزات والمعلومات لتكون أكثر صلة بك (على سبيل المثال، إعطاء الأولوية لبرنامج كليتك)."
             ]
           }
         },
         {
           "id": "data-sharing",
-          "heading": { "en": "3. Data Sharing & Third Parties", "ar": "٣. مشاركة البيانات والجهات الخارجية" },
+          "heading": { "en": "3. Data Sharing & Third Parties", "ar": "٣. مشاركة البيانات والأطراف الثالثة" },
           "body": {
             "en": [
               "We share your data with trusted third-party service providers only to the extent necessary to operate the bot:",
@@ -65,14 +69,16 @@
               "• Other Disclosures: We may also share data if necessary to comply with a legal obligation, protect our rights, or prevent misuse."
             ],
               "ar": [
-              "قد نشارك البيانات مع مزودي الخدمة فقط لتشغيل البوت (مثل الاستضافة).",
-              "قد نكشف المعلومات إذا طُلب ذلك بموجب القانون أو لحماية الحقوق والسلامة."
-            ]
+                "نشارك بياناتك مع مزودي خدمات موثوقين من جهات خارجية فقط بالقدر اللازم لتشغيل الروبوت:",
+                "• مزود خدمة الاستضافة السحابية: يُستضاف الروبوت على منصة سحابية مخصصة. تمر جميع البيانات التي يعالجها الروبوت عبر بنية هذا المزود التحتية.",
+                "• مزودو خدمات الذكاء الاصطناعي: تعتمد وظائف الذكاء الاصطناعي النصية على نماذج ذكاء اصطناعي تابعة لجهات خارجية، مثل واجهة برمجة تطبيقات OpenAI. تُشارك بيانات محادثتك مع هؤلاء المزودين لإنشاء الردود. قد يتغير مزود نموذج الذكاء الاصطناعي المحدد بناءً على أداء النظام ومتطلبات الاستخدام لضمان الموثوقية.",
+                "• إفصاحات أخرى: قد نشارك البيانات أيضًا إذا لزم الأمر للامتثال لالتزام قانوني، أو لحماية حقوقنا، أو لمنع إساءة الاستخدام."
+              ]
           }
         },
         {
           "id": "data-retention",
-          "heading": { "en": "4. Data Retention", "ar": "٤. حقوقك وخياراتكhhhhhhh" },
+          "heading": { "en": "4. Data Retention", "ar": "٤. الاحتفاظ بالبيانات" },
           "body": {
             "en": [
               "We retain your personal data only for as long as is necessary to fulfill the purposes described in this policy, unless a longer retention period is required for operational needs, such as maintaining the broadcast system, or permitted by law.",
@@ -81,14 +87,16 @@
               "• We commit to deleting your personal data in a secure manner when it is no longer needed for the stated purposes."
             ],
             "ar": [
-              "يمكنك طلب الوصول إلى بياناتك أو تصحيحها أو حذفها وفقًا للقيود القانونية.",
-              "يمكنك إلغاء بعض المعالجة حيثما كان ذلك ممكنًا."
+              "نحتفظ ببياناتك الشخصية فقط للفترة الضرورية لتحقيق الأغراض الموضحة في هذه السياسة، ما لم تتطلب الاحتياجات التشغيلية فترة احتفاظ أطول، مثل صيانة نظام الاذاعة، أو ما يسمح بها القانون.",
+              "• يتم الاحتفاظ ببيانات ملف تعريف تيليجرام (معرف المستخدم، الاسم) إلى أجل غير مسمى لتزويدك بخدمة مستمرة وللوظائف التشغيلية مثل اذاعة التحديثات المهمة.",
+              "• يتم الاحتفاظ ببيانات المحادثة وبيانات تعريف التفاعل لأغراض التحليل وتحسين الخدمة. نقوم بمراجعة هذه البيانات دوريًا وحذفها بمجرد انتهاء الغرض منها لتحديد الاتجاهات وتصحيح الأخطاء وتحسين أداء الذكاء الاصطناعي.",
+              "• نلتزم بحذف بياناتك الشخصية بطريقة آمنة عندما لا تعود هناك حاجة إليها للأغراض المذكورة."
             ]
           }
         },
         {
           "id": "user-rights",
-          "heading": { "en": "5. Your Rights & Choices", "ar": "5. حقوقك وخياراتك" },
+          "heading": { "en": "5. Your Rights & Choices", "ar": "٥. حقوقك وخياراتك" },
           "body": {
             "en": [
               "You have the following choices regarding your data:",
@@ -99,14 +107,18 @@
               "• Contact for Requests: To make a deletion request or for any other privacy-related questions, please contact us using the information provided in the \"Contact Us\" section."
             ],
             "ar": [
-              "يمكنك طلب الوصول إلى بياناتك أو تصحيحها أو حذفها وفقًا للقيود القانونية.",
-              "يمكنك إلغاء بعض المعالجة حيثما كان ذلك ممكنًا."
+              "لديك الخيارات التالية فيما يتعلق ببياناتك:",
+              "• الوصول إلى محادثاتك: حرصًا على خصوصيتك وأمانك، لا نوفر وصولًا مباشرًا إلى سجلات بياناتك الداخلية المخزنة على خوادمنا. يمكنك مراجعة سجل محادثاتك ضمن سجل الرسائل المباشرة مع البوت على تيليجرام.",
+              "• تصحيح بيانات الملف الشخصي: يتم تحديث بيانات ملفك الشخصي على تيليجرام المخزنة لدينا (مثل اسمك الأول أو اسم المستخدم) تلقائيًا عند تغييرها في حسابك على تيليجرام. لا نقوم بإجراء أي تعديلات يدوية على هذه البيانات.",
+              "• طلب حذف البيانات: يمكنك التواصل معنا لطلب حذف بياناتك الشخصية. سنقوم بتقييم هذه الطلبات والامتثال لها حيثما كان ذلك ممكنًا بشكل معقول وبما لا يتعارض مع احتياجاتنا التشغيلية المشروعة أو التزاماتنا القانونية أو ضرورة الحفاظ على سلامة أنظمتنا.",
+              "• إغلاق الحساب: لا توجد عملية 'إغلاق حساب' منفصلة. تخضع ممارسات الاحتفاظ بالبيانات وحذفها لهذه السياسة ككل. قد تبقى البيانات من حساب مستخدم سابقًا كما هو موضح في قسم الاحتفاظ بالبيانات.",
+              "• التواصل للطلبات: لتقديم طلب حذف أو لأي استفسارات أخرى متعلقة بالخصوصية، يرجى التواصل معنا باستخدام المعلومات الواردة في قسم 'اتصل بنا'."
             ]
           }
         },
         {
           "id": "data-security",
-          "heading": { "en": "6. Data Security", "ar": "٥. أمن البيانات" },
+          "heading": { "en": "6. Data Security", "ar": "٦. أمن البيانات" },
           "body": {
             "en": [
               "We implement a range of measures designed to protect your personal information from unauthorized access, loss, or misuse. Our security approach includes:",
@@ -117,34 +129,40 @@
               "While we strive to use commercially acceptable means to protect your data, no method of electronic transmission or storage is 100% secure. We cannot guarantee absolute security."
             ],
             "ar": [
-              "نستخدم تدابير تقنية وتنظيمية معقولة لحماية البيانات.",
-              "لا توجد وسيلة نقل أو تخزين آمنة تمامًا؛ قد تظل هناك مخاطر."
+              "نُطبّق مجموعة من الإجراءات المصممة لحماية معلوماتك الشخصية من الوصول غير المصرح به أو الفقدان أو سوء الاستخدام. يشمل نهجنا الأمني ​​ما يلي:",
+              "• أمن الإدارة: يقتصر الوصول إلى أنظمة وبيانات البوت الخلفية بشكل صارم على فريق التطوير الأساسي، ويتم حمايته من خلال مصادقة الحساب.",
+              "• أمن البنية التحتية: نعتمد على مزود استضافة سحابية محترف، يستخدم إجراءات أمنية قوية للشبكة - بما في ذلك جدران الحماية، وحماية من البوتات، وتخفيف هجمات DDoS - لحماية الخوادم التي تُعالج عليها البيانات.",
+              "• تطوير الأمان: نتبع الممارسات القياسية لتأمين كود البوت ضد الثغرات الأمنية الشائعة.",
+              "يرجى ملاحظة أن البيانات تُخزّن حاليًا في ملفات مُهيكلة. نعمل بنشاط على تطوير الخدمة ونخطط للانتقال إلى نظام قاعدة بيانات مُخصص بميزات أمان مُحسّنة في تحديث مستقبلي.",
+              "مع أننا نسعى جاهدين لاستخدام الوسائل المقبولة تجاريًا لحماية بياناتك، إلا أنه لا توجد طريقة نقل أو تخزين إلكترونية آمنة بنسبة 100%. لا يمكننا ضمان أمان مطلق."
             ]
           }
         },
         {
           "id": "policy-changes",
-          "heading": { "en": "7. Changes to This Policy", "ar": "٦. تغييرات على هذه السياسة" },
+          "heading": { "en": "7. Changes to This Policy", "ar": "٧. تغييرات على هذه السياسة" },
           "body": {
             "en": [
               "We may update this Privacy Policy from time to time. When we do, we will revise the \"Last Updated\" date at the top of this page.",
               "We encourage you to periodically review this page for the latest information on our privacy practices. Your continued use of University_WissBot after any changes to this policy constitutes your acceptance of the updated terms."
             ],
             "ar": [
-              "قد نقوم بتحديث هذه السياسة؛ سيتم إبراز التغييرات المهمة في هذه الصفحة."
+              "قد نقوم بتحديث سياسة الخصوصية هذه من وقت لآخر. وعندها، سنقوم بتحديث تاريخ 'آخر تحديث' أعلى هذه الصفحة.",
+              "نشجعك على مراجعة هذه الصفحة دوريًا للاطلاع على أحدث المعلومات حول ممارسات الخصوصية لدينا. استمرارك في استخدام University_WissBot بعد أي تغييرات في هذه السياسة يُعدّ قبولًا منك للشروط المُحدَّثة."
             ]
           }
         },
         {
           "id": "contact",
-          "heading": { "en": "8. Contact Us", "ar": "٧. اتصل بنا" },
+          "heading": { "en": "8. Contact Us", "ar": "٨. اتصل بنا" },
           "body": {
             "en": [
-              "For any questions about this Privacy Policy, to make a request regarding your data, or for any other privacy-related concerns, please use the \"Contacts\" button or menu within the University_WissBot interface on Telegram.",
+              "For any questions about this Privacy Policy, to make a request regarding your data, or for any other privacy-related concerns, please use the \"Contacts\" button within the University_WissBot interface on Telegram.",
               "This is the preferred and most efficient method to reach the responsible team."
             ],
             "ar": [
-              "البريد الإلكتروني: hahaha"
+              "لأي استفسارات حول سياسة الخصوصية هذه، أو لتقديم طلب يتعلق ببياناتك، أو لأي مخاوف أخرى متعلقة بالخصوصية، يُرجى استخدام زر 'التواصل' ضمن واجهة University_WissBot على تطبيق تيليجرام.",
+              "هذه هي الطريقة المُفضلة والأكثر فعالية للتواصل مع الفريق المسؤول."
             ]
           }
         }
@@ -153,8 +171,8 @@
     "terms": {
       "title": { "en": "Terms of Service", "ar": "شروط الخدمة" },
       "summary": {
-        "en": "Placeholder terms summary. You will replace this after the design is ready.",
-        "ar": "ملخص مؤقت لشروط الخدمة. ستستبدله بعد اكتمال التصميم."
+        "en": "Placeholder terms summary.",
+        "ar": "ملخص مؤقت لشروط الخدمة."
       },
       "sections": [
         { "id": "usage", "heading": { "en": "1. Use of the Service", "ar": "١. استخدام الخدمة" }, "body": { "en": ["Placeholder."], "ar": ["نص مؤقت."] } },
