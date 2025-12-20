@@ -45,16 +45,16 @@
             "en": [
               "We use the information we collect for the following purposes:",
               "• To Provide and Maintain Core Services: To operate the University_WissBot, respond to your commands and AI queries, and deliver core functionalities like providing book references, schedules, and lecture information.",
-              "• For Service Improvement and Development: This is a primary use of conversation data. We analyze interactions to:\n\n  ○ 'Identify new features and needs' (e.g., recognizing when users request unsupported lectures, prompting us to add them).\n  ○ 'Improve the AI's logic and response accuracy' by refining its way of thinking to better meet user expectations.\n  ○ 'Enhance usability' (e.g., making the bot respond to \"start\" in addition to \"/start\").\n  ○ Conduct 'aggregate trend analysis' (e.g., determining the percentage of users asking about schedules) to guide our development roadmap.",
-              "",
+              "• For Service Improvement and Development: This is a primary use of conversation data. We analyze interactions to:\n  ○ 'Identify new features and needs' (e.g., recognizing when users request unsupported lectures, prompting us to add them).\n  ○ 'Improve the AI's logic and response accuracy' by refining its way of thinking to better meet user expectations.\n  ○ 'Enhance usability' (e.g., making the bot respond to \"start\" in addition to \"/start\").\n  ○ Conduct 'aggregate trend analysis' (e.g., determining the percentage of users asking about schedules) to guide our development roadmap.",
+              " ",
               "• For Troubleshooting and Security: To manually review specific interactions for debugging, monitor performance, identify interface errors, prevent abuse, and ensure the security and reliability of our service.",
               "• For Future Personalization: While the current bot does 'not' create detailed individual user profiles, we may use your interaction history in the future to tailor features and information to be more relevant to you (e.g., prioritizing your faculty's schedule)."
             ],
             "ar": [
               "نستخدم المعلومات التي نجمعها للأغراض التالية:",
               "• توفير الخدمات الأساسية وصيانتها: لتشغيل روبوت الجامعة (University_WissBot)، والاستجابة لأوامركم واستفسارات الذكاء الاصطناعي، وتقديم الوظائف الأساسية مثل توفير مراجع الكتب والبرامج الدراسية ومعلومات المحاضرات.",
-              "• تحسين الخدمة وتطويرها: يُعد هذا الاستخدام الأساسي لبيانات المحادثة. نحلل التفاعلات من أجل:\n\n  ○ 'تحديد الميزات والاحتياجات الجديدة' (على سبيل المثال، التعرف على طلبات المستخدمين للمحاضرات غير المدعومة، مما يدفعنا إلى إضافتها).\n  ○ 'تحسين منطق الذكاء الاصطناعي ودقة استجابته' من خلال تحسين طريقة تفكيره لتلبية توقعات المستخدمين بشكل أفضل.\n  ○ 'تعزيز سهولة الاستخدام' (على سبيل المثال، جعل الروبوت يستجيب لكلمة \"start\" بالإضافة إلى \"/start\").\n  ○ إجراء 'تحليل إجمالي للاتجاهات' (على سبيل المثال، تحديد نسبة المستخدمين الذين يسألون عن الجداول الزمنية) لتوجيه خارطة طريقنا التطويرية.",
-              "",
+              "• تحسين الخدمة وتطويرها: يُعد هذا الاستخدام الأساسي لبيانات المحادثة. نحلل التفاعلات من أجل:\n  ○ 'تحديد الميزات والاحتياجات الجديدة' (على سبيل المثال، التعرف على طلبات المستخدمين للمحاضرات غير المدعومة، مما يدفعنا إلى إضافتها).\n  ○ 'تحسين منطق الذكاء الاصطناعي ودقة استجابته' من خلال تحسين طريقة تفكيره لتلبية توقعات المستخدمين بشكل أفضل.\n  ○ 'تعزيز سهولة الاستخدام' (على سبيل المثال، جعل الروبوت يستجيب لكلمة \"start\" بالإضافة إلى \"/start\").\n  ○ إجراء 'تحليل إجمالي للاتجاهات' (على سبيل المثال، تحديد نسبة المستخدمين الذين يسألون عن الجداول الزمنية) لتوجيه خارطة طريقنا التطويرية.",
+              " ",
               "• لأغراض استكشاف الأخطاء وإصلاحها والأمان: لمراجعة تفاعلات محددة يدويًا لتصحيح الأخطاء، ومراقبة الأداء، وتحديد أخطاء واجهة المستخدم، ومنع إساءة الاستخدام، وضمان أمان وموثوقية خدمتنا.",
               "• للتخصيص المستقبلي: على الرغم من أن الروبوت الحالي 'لا' يقوم بإنشاء ملفات تعريف فردية مفصلة للمستخدمين، إلا أننا قد نستخدم سجل تفاعلك في المستقبل لتخصيص الميزات والمعلومات لتكون أكثر صلة بك (على سبيل المثال، إعطاء الأولوية لبرنامج كليتك)."
             ]
